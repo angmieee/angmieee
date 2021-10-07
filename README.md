@@ -21,7 +21,7 @@
 <p>
   <a href="https://github.com/angmieee">
     <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=angmieee&show_icons=true&theme=radical" />
-    <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angmieee&theme=radical&layout=compact&hide=css,html,shell" />
+    <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angmieee&theme=radical&layout=compact&hide=css,html,shell,scss" />
   </a>
 </p>
 
